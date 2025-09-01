@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Muhammad Faizan Haider 👋
+💻 Laravel Developer | Full Stack Web Developer  
+🔹 Specializing in Laravel, MySQL, and REST APIs  
+🔹 Passionate about building scalable web apps  
 
-<!--
-**faizanWebDev666/faizanWebDev666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-Here are some ideas to get you started:
+## 📌 Featured Projects
+- [ResellZone (E-Commerce Platform)](https://github.com/faizanWebDev666/FYP-Project)
+- [University Management Portal](https://github.com/faizanWebDev666/University-Management-Portal)
+- [Hospital Management System](https://github.com/faizanWebDev666/HMS-Project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Faizan's GitHub stats](https://github-readme-stats.vercel.app/api?username=faizanWebDev666&show_icons=true&theme=dark)
